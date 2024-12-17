@@ -9,17 +9,8 @@
 
 - 💻 **Ask me about**: **.NET Core, React, Java**  
 - 🌐 **Portfolio**: [https://elkhadir.netlify.app/](https://elkhadir.netlify.app/)  
-- 📫 **Contact me**: **badreddine.aitelkhadir@e-polytechnique.ma**  
-
----
-
-### 🏆 **GitHub Achievements**
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=badreddineel27&margin-w=5&theme=gruvbox" alt="badreddineel27" />
-  </a>
-</p>
-
+- 📫 **Contact me**: **badreddine.aitelkhadir@e-polytechnique.ma**
+  
 ---
 
 ### 📡 **Connect with Me**
@@ -74,5 +65,4 @@
   </a>
 </p>
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badreddineel27&show_icons=true&locale=en&layout=compact" alt="badreddineel27" /></p>
 

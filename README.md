@@ -22,13 +22,6 @@
 
 ---
 
-### 🌟 **Projects**
-- **[Payroll Management System](https://elkhadir.netlify.app/)**: Developed a Moroccan payroll module in Odoo with functionalities like salary certificate printing.
-- **Track’it Fleet Management**: A comprehensive fleet management app featuring modules for vehicles, drivers, and expenses.
-- **Integration with Sage ERP X3**: Designed a J2EE web app for factory management integrated with Sage ERP.
-
----
-
 ### 📡 **Connect with Me**
 <p align="left">
   <a href="https://www.linkedin.com/in/badreddine-elkhadir/" target="_blank">
@@ -60,6 +53,25 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" />
+</p>
+
+#### **Data bases**
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+  </a>
 </p>
 ---
 

@@ -7,8 +7,8 @@
 
 ---
 
-- 🌐 **Portfolio**: [https://elkhadir.netlify.app/](https://elkhadir.netlify.app/)  
 - 💻 **Ask me about**: **.NET Core, React, Java**  
+- 🌐 **Portfolio**: [https://elkhadir.netlify.app/](https://elkhadir.netlify.app/)  
 - 📫 **Contact me**: **badreddine.aitelkhadir@e-polytechnique.ma**  
 
 ---
@@ -74,4 +74,7 @@
   </a>
 </p>
 ---
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badreddineel27&show_icons=true&locale=en" alt="badreddineel27" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badreddineel27&" alt="badreddineel27" /></p>
 

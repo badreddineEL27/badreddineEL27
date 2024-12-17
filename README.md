@@ -7,7 +7,7 @@
 
 ---
 
-- 💻 **Ask me about**: **.NET Core, React, Java**  
+- 💻 **Ask me about**: **.NET Core, React, Java, Odoo**  
 - 🌐 **Portfolio**: [https://elkhadir.netlify.app/](https://elkhadir.netlify.app/)  
 - 📫 **Contact me**: **badreddine.aitelkhadir@e-polytechnique.ma**
   

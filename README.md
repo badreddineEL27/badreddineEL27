@@ -28,7 +28,7 @@
 
 ---
 
-#### **Languages**
+#### 👨‍💻 **Languages**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
@@ -39,7 +39,7 @@
 
 ---
 
-#### **Frameworks & Tools**
+#### 👨‍💻 **Frameworks & Tools**
 <p align="left">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40" />
@@ -50,7 +50,7 @@
 
 ---
 
-#### **Databases**
+#### 👨‍💻 **Databases**
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
@@ -71,7 +71,7 @@
 
 ---
 
-#### **DevOps Tools**
+#### 👨‍💻 **DevOps Tools**
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
@@ -89,7 +89,7 @@
 
 ---
 
-#### **Testing Tools**
+#### 👨‍💻 **Testing Tools**
 <p align="left">
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40" />
@@ -101,7 +101,7 @@
 
 ---
 
-#### **Monitoring Tools**
+#### 👨‍💻 **Monitoring Tools**
 <p align="left">
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40" />
